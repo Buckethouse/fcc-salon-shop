@@ -297,3 +297,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 ./salon.sh
 ./salon.sh
 ./salon.sh
+git add .
